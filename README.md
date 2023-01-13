@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 * * *
 
 <p align="middle"> 
-  <a href="https://github.com/astaos"><img alt="Github Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=astaos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <a href="https://github.com/astaos"><img alt="Github Stats" height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=astaos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <a href="https://github.com/astaos"><img alt="Commits" height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=astaos&theme=dracula&utcOffset=8" />
 </p>
 

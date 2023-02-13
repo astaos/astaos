@@ -53,3 +53,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Redmine-B32024?style-flat&logo=Redmine&logoColor=white" />
 
 </p>
+
+* * *
+
+<h3 align="middle">⚡ Visitors ⚡</h3>
+<p align="center"> 
+  <a href="https://github.com/astaos"><img src="https://profile-counter.glitch.me/astaos/count.svg" />
+</p>

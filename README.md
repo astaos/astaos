@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=Lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=CPlusPlus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-F03A6A?style=flat&logo=CPlusPlus&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=CSharp&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
